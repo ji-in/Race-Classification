@@ -62,9 +62,3 @@ python eval.py --model_pth model_300epochs.pt
 I wrote README.md with reference to [this page](https://github.com/ji-in/stylegan2)
 
 I referred to a [PyTorch official site](https://tutorials.pytorch.kr/beginner/transfer_learning_tutorial.html) for fine codes
-
-
-
-
-
-gitignore 추가
