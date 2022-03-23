@@ -9,7 +9,7 @@
 
 ## Preparing datasets
 
-I used [Align&Cropped Images](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and labeled 10,000 images on by own into 5 group (Caucasian, Black, Asian, Middle Easterners/Indian, Not determined)
+I used [Align&Cropped Images](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and labeled 10,000 images on by own into 5 groups (Caucasian, Black, Asian, Middle Easterners/Indian, Not determined)
 
 I split dataset into train : valid : test = 70 : 15 : 15
 
